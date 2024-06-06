@@ -20,6 +20,8 @@ const onLoad = () => {
   page.value++;
   if (videoList.value?.length === list.value.length) finished.value = true;
 };
+
+
 onLoad();
 </script>
 
