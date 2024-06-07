@@ -10,7 +10,8 @@
 useSeoMeta({
     title:'哔哩哔哩  bilibili',
     description:'哔哩哔哩 (bilibili.com)是国内知名的视频弹幕网站 ',
-    keywords:'哔哩哔哩,B站,bilibili,动画，电影，动漫'
+    keywords:'哔哩哔哩,B站,bilibili,动画，电影，动漫',
+    referrer:'no-referrer'
 })
 
 </script>
