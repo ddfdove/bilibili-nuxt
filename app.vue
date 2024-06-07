@@ -1,9 +1,9 @@
 <template>
  <!-- 页面路由 -->
- <NuxtLink to="/">首页</NuxtLink>
- <NuxtLink to="/video">视频页</NuxtLink>
+ <NuxtLink to="/"></NuxtLink>
+ <NuxtLink to="/video"></NuxtLink>
 
- <NuxtPage keepalive="{max:10,exclude:['video']}"/>
+ <NuxtPage keepalive="{max:10"/>
 </template>
 
 <script setup lang="ts">
